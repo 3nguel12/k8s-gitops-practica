@@ -1,0 +1,6 @@
+apiVersion: v2
+name: mi-web
+description: Servicio web simple para practica GitOps
+type: application
+version: 0.1.0
+appVersion: "1.0"
