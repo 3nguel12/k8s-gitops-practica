@@ -1,4 +1,4 @@
-replicaCount: 4
+replicaCount: 2
 
 image:
   repository: nginx
@@ -8,4 +8,4 @@ service:
   type: ClusterIP
   port: 80
 
-mensaje: "Hola desde la version 2"
+mensaje: "Hola desde la version 1"
